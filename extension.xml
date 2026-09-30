@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" requires="ezpublish 6.0">
-  <name>explayouts_api</name>
+  <name>Exponential Layouts API</name>
   <summary>Public PHP API adapters bridging Exponential content to Exponential Layouts for Exponential 6.</summary>
   <version>1.0.1</version>
   <copyright>7x</copyright>
