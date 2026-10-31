@@ -2,7 +2,7 @@
 
 ## How does this differ from netgen/layouts-ibexa?
 
-`netgen/layouts-ibexa` wires Netgen Layouts into Ibexa via Symfony services (content providers, value converters, URL generators, validators). This extension ports those roles to plain PHP classes over the eZ Publish legacy API (`eZContentObject`, `eZContentObjectTreeNode`, `eZContentClass`, `eZSection`) — no service container, no Ibexa Repository API.
+`netgen/layouts-ibexa` wires the upstream layouts engine into Ibexa via Symfony services (content providers, value converters, URL generators, validators). This extension ports those roles to plain PHP classes over the eZ Publish legacy API (`eZContentObject`, `eZContentObjectTreeNode`, `eZContentClass`, `eZSection`) — no service container, no Ibexa Repository API.
 
 ## Which database tables does it own?
 
